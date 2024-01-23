@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.mt-20 {
+    margin-top: 2rem;
+}
+
+.py-12 {
+    padding-top: 1rem;
+    padding-bottom: 3rem;
+}
